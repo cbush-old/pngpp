@@ -2,9 +2,7 @@ png++
 =====
 
 png++
-
 OO libpng15 wrapper and image manipulator
-
 Copyright (C) 2012  Chris Bush
 
 This program is free software: you can redistribute it and/or modify
